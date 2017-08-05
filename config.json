@@ -1,6 +1,6 @@
 {
     "footer": "Powered by <a href='https://github.com/jayfk/statuspage'>jayfk/statuspage</a>",
-    "logo": "https://raw.githubusercontent.com/jayfk/statuspage/master/template/logo.png",
+    "logo": "logo.png",
     "title": "Martignoni Service Status",
-    "favicon": "https://raw.githubusercontent.com/jayfk/statuspage/master/template/favicon.png"
+    "favicon": "favicon.png"
 }
